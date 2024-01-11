@@ -7,7 +7,7 @@ namespace Algorismus
 {
     public class test2
     {
-        static void Main(string[] args)
+        static void Main2(string[] args)
         {
             List<int> num_list = new List<int>();
 
