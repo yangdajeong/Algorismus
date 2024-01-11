@@ -3,9 +3,9 @@ using System.Drawing;
 
 namespace Algorismus
 {
-    internal class Program
+    internal class test1
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             Console.WriteLine("숫자를 입력하세요!");
             int num = int.Parse(Console.ReadLine());
