@@ -7,7 +7,7 @@ namespace Algorismus
 {
     public class test3
     {
-        static void Main()
+        static void Main3()
         {
             List<string> inventory = new List<string>();
 
